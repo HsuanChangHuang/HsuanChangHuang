@@ -23,7 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ray-huang-56104a159" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ray-huang-56104a159" height="30" width="40" /></a>
-<a href="https://fb.com/黃璿彰" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="[黃璿彰](https://www.facebook.com/profile.php?id=100000527681930)" height="30" width="40" /></a>
+<a href="https://fb.com/100000527681930" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100000527681930" height="30" width="40" /></a>
 <a href="https://instagram.com/ray_0629" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ray_0629" height="30" width="40" /></a>
 </p>
 
